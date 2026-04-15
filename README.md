@@ -1,6 +1,6 @@
 # 802.11 Probe Request Exfiltration Toolkit
 
-**By Nick Paul and AJ Lopez**
+**By nickpaulsec**
 
 A research toolkit for demonstrating and detecting data exfiltration via 802.11 WiFi probe requests. The project has two components: an exfiltration tool that encodes data into probe request SSIDs, and a detection tool that monitors for this behavior on the network.
 
@@ -116,5 +116,5 @@ See `ProbyMonitorDemo.mp4` for a full demonstration of the toolkit in action.
 
 ## Authors
 
-- **Nick Paul**
-- **AJ Lopez**
+nickpaulsec
+
