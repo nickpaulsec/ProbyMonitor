@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 
-# SSIDExfil by Nick Paul and AJ Lopez
+# SSIDExfil by nickpaulsec
 # Platform : Windows
 # ------------------------------------------------------------------------------------------------
 # A tool that exfiltrates data by encoding it into 802.11 probe request SSIDs.
