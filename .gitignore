@@ -15,8 +15,12 @@ build/
 env/
 venv/
 
-# OS
+# Output
+exfiltratedData.txt
+
+# OS junk
 .DS_Store
+._*
 Thumbs.db
 
 # IDE
@@ -24,3 +28,6 @@ Thumbs.db
 .idea/
 *.swp
 *.swo
+
+# Old project subfolder (files consolidated at root)
+SSIDExfil-master/
