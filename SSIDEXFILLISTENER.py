@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 
-# SSIDExfil Listener by Nick Paul and AJ Lopez
+# SSIDExfil Listener by nickpaulsec
 # Platform : Linux/Windows
 # ------------------------------------------------------------------------------------------------
 # Reads a captured .pcap file and reconstructs data exfiltrated via SSIDExfil.
