@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 
-# ProbyMonitor by Nick Paul and AJ Lopez
+# ProbyMonitor by nickpaulsec
 # Platform : Linux (Tested on Parrot OS and Kali)
 # ------------------------------------------------------------------------------------------------
 # A tool that aims to detect possible data exfiltration through monitoring 802.11 probe requests
@@ -24,7 +24,7 @@ splashArt = """
 ╔═╗┬─┐┌─┐┌┐ ┬ ┬╔╦╗┌─┐┌┐┌┬┌┬┐┌─┐┬─┐
 ╠═╝├┬┘│ │├┴┐└┬┘║║║│ │││││ │ │ │├┬┘
 ╩  ┴└─└─┘└─┘ ┴ ╩ ╩└─┘┘└┘┴ ┴ └─┘┴└─ 
-by Nick Paul and AJ Lopez                                                                                                                                                        
+by nickpaulsec                                                                                                                                                       
 """
 
 #The following holds all global variables needed
